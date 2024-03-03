@@ -1,0 +1,3 @@
++ git reset --soft SAH  :  supprimer des commit inutile "de meme fichier " par exemple des modifications inutile la commite que me choisi va descendre de Repository à Staging 
++ git reset --mixed SAH : supprimer des commit inutile "de meme fichier " par exemple des modifications inutile la commite que me choisi va descendre de Repository à Working
+ 
