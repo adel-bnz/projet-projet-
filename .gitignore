@@ -1,0 +1,4 @@
+task.txt
+*.exe
+!import.exe
+note/
