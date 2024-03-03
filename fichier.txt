@@ -1,3 +1,5 @@
 "bonjour c'et moi !! "
 J'ai modifié le fichier 
 Une nouvelle tache
+Une deuxième tache 
+Une troisième tache 
