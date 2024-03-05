@@ -1,11 +1,21 @@
 + git reset --soft SAH  :  supprimer des commit inutile "de meme fichier " par exemple des modifications inutile la commite que me choisi va descendre de Repository à Staging 
+
 + git reset --mixed SAH : supprimer des commit inutile "de meme fichier " par exemple des modifications inutile la commite que me choisi va descendre de Repository à Working
+
 + git reset --hard SAH : supprimer tous les commîtes et ses modifications âpre SAH 
+
 + touch .gitignore : crée un fichier cacher 
+
 + git branch : show all branch
+
 + git branche ma_nouvelle_branche : creation d'une nouvelle branche 
+
 + git checkout mabranche : déplacement vers ma branche 
+
 + git checkout -b mabranche : réaction et déplacement vers ma branche
+
 + git init : initialiser un git 
-+ git config --global user.name "mon_nome" : renommé ma configutati
+
++ git config --global user.name "mon_nome" : renommé ma configutation
+
 + git config --global user.emal "mon @email" : ajouter mon email 
