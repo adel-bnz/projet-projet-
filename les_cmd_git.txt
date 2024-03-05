@@ -19,3 +19,5 @@
 + git config --global user.name "mon_nome" : renommé ma configutation
 
 + git config --global user.emal "mon @email" : ajouter mon email 
+
++git log --oneline --graph --decorate : affichage  tous les commits avec son branche et SAH
