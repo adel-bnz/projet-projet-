@@ -34,5 +34,8 @@
 
 + git merge ma_branche : couper tous les comités de ma_branche vers la branch actuelle 
 
-+  
++ =========================== GIT HUB ========================
+
+
+CREAT REPORTORY  	: pour cree un reporter 
 
