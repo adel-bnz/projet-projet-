@@ -10,25 +10,29 @@
 
 + git branche ma_nouvelle_branche : creation d'une nouvelle branche 
 
-+ git checkout mabranche : déplacement vers ma branche 
++ git checkout ma_branche : déplacement vers ma branche 
 
-+ git checkout -b mabranche : réaction et déplacement vers ma branche
++ git checkout -b ma_branche : réaction et déplacement vers ma branche
 
 + git init : initialiser un git 
 
-+ git config --global user.name "mon_nome" : renommé ma configutation
++ git config --global user.name "mon_nome" : renommé ma configuration
 
 + git config --global user.emal "mon @email" : ajouter mon email 
 
-+git log --oneline --graph --decorate : affichage  tous les commits avec son branche et SAH 
++ git log --oneline --graph --decorate : affichage  tous les commits avec son branche et SAH 
 
-+git diff master..name brach : view differences between branches 
++ git diff master..name brach : view differences between branches 
 
-+git branch -m oldNameBranch  newNameBranch : reName branch 
++ git branch -m oldNameBranch  newNameBranch : reName branch 
 
-+git branch -d nameBranch : delete branch 
++ git branch -d nameBranch : delete branch 
 
-+git branch -D nameBranch : delete branch not merge (branche modifier ou lever quelque chose sur repository)
++ git branch -D nameBranch : delete branch not merge (branche modifier ou lever quelque chose sur repository)
 
-+git 
++ git log --oneline --graph --all : afficher les SAH avec les commentaire de chaque commîtes 
+
++ git merge ma_branche : couper tous les comités de ma_branche vers la branch actuelle 
+
++  
 
