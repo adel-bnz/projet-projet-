@@ -3,5 +3,9 @@ J'ai modifié le fichier
 Une nouvelle tache
 Une deuxième tache 
 Une troisième tache 
+<<<<<<< HEAD
 Modification de 08 mars 2023
+=======
+Modification dans la branche ma_branche 
+>>>>>>> ma_branche
 
