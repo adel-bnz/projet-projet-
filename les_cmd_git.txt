@@ -20,4 +20,15 @@
 
 + git config --global user.emal "mon @email" : ajouter mon email 
 
-+git log --oneline --graph --decorate : affichage  tous les commits avec son branche et SAH
++git log --oneline --graph --decorate : affichage  tous les commits avec son branche et SAH 
+
++git diff master..name brach : view differences between branches 
+
++git branch -m oldNameBranch  newNameBranch : reName branch 
+
++git branch -d nameBranch : delete branch 
+
++git branch -D nameBranch : delete branch not merge (branche modifier ou lever quelque chose sur repository)
+
++git 
+
