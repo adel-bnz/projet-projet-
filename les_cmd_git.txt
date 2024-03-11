@@ -37,5 +37,14 @@
 + =========================== GIT HUB ========================
 
 
-CREAT REPORTORY  	: pour cree un reporter 
+CREAT REPORTORY  	: pour cree un repostory 
+
++ git remote add origin  <<line de GitHub avec son repostory >>   : liée git avec git hub
+ 
++ git remote  : verification de la remote 
+
++ git push -u origin master : lancer son projet de git vers git hub
+
++
+ 
 
